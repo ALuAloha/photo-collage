@@ -1,0 +1,4 @@
+interface:
+  display_name: "Photo Collage World"
+  short_description: "Transform real photos into theme-driven collage worlds"
+  default_prompt: "Use $photo-collage-world to transform this photo into a rich thematic collage world while preserving the core subject and story."
